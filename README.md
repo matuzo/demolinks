@@ -17,5 +17,18 @@ I’m not sure whether this is a good idea because the list might become outdate
 
 * [knipex.de/cutix](https://www.knipex.de/cutix) (🇩🇪)
 
+## Site with role=menu|menuitem|menubar
+
+* [wordpress.com](https://wordpress.com/)
+
+## Site with zoom disabled on mobile
+
+* [espn.com](https://www.espn.com/)
+* [duesseldorf.de](https://www.duesseldorf.de/) (🇩🇪)
+* [thesun.co.uk](https://www.thesun.co.uk/)
+* [dhl.de](https://www.dhl.de/en/privatkunden.html)
+
+
+
 
 If you want me to remove a link, if a link is outdated or if you want to add a site or category, create a PR oder write me an e-mail (manuel@matuzo.at).
